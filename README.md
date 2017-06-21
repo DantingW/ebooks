@@ -17,6 +17,54 @@
         <td>????</td>
         <td></td>
     </tr>
+    <tr>
+        <td>楞严大义今译</td>
+        <td>1960</td>
+        <td>????</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>楞伽大义今译</td>
+        <td>1965</td>
+        <td>????</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>禅与道概论</td>
+        <td>1968</td>
+        <td>????</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>禅话</td>
+        <td>1973</td>
+        <td>????</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><静坐修道与长生不老/td>
+        <td>1973</td>
+        <td>????</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>论语别裁</td>
+        <td>1976</td>
+        <td>????</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>新旧的一代</td>
+        <td>1977</td>
+        <td>????</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>孟子旁通</td>
+        <td>1984</td>
+        <td>????</td>
+        <td></td>
+    </tr>
 </table>
 
 ## 计算机科学类
